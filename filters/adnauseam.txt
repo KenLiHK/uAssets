@@ -375,6 +375,8 @@ bitcoin.treasurebits.net##iframe[src="about:blank"]
 9anime.to##*[class*="crop"]
 9anime.to##*[src*="interbuzznews"]
 9anime.to##*[href*="revrtb"]
+
+www.rockpapershotgun.com##*[id^="google_ads_iframe_"]
 ##################### Blocking rules ########################
 
 # 4archive.prg
@@ -573,6 +575,3 @@ bitcoin.treasurebits.net##iframe[src="about:blank"]
 #@#[src*="data:"]
 #@#[style*="base64"]
 #@#[style*="blob:"]
-
-# rockpapershotgun
-||cdn.gamer-network.net/plugins/dfp$domain=rockpapershotgun.com
